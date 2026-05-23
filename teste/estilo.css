@@ -1,0 +1,18 @@
+body{
+    background-color: #e07979;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    display: flex;
+    margin: 20px;
+}
+ *{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+ }
+    .lute{
+        color: red;
+        font-size: 30px;
+        text-align: center;
+        margin:auto;
+        
+    }
